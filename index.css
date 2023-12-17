@@ -96,6 +96,7 @@ body {
   background-position: center;
   background-size: auto;
   border-radius: 10px;
+  height: 110%;
 }
 
 .day-1 {
@@ -531,6 +532,7 @@ body {
   background-position: center;
   background-size: cover;
   border-radius: 10px;
+  height: 225%
 }
 
 
