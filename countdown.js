@@ -46,7 +46,7 @@ doors.forEach((door, index) => {
       const imageUrl = `image/modal/modal-${index + 1}.png`;
 
       // 'back' 클래스를 가진 요소를 찾아 스타일을 가져옵니다.
-      const doorDiv = document.querySelector(`.day-${index + 1}`)
+      const doorDiv = document.querySelector(`.day-${index + 0}`)
       const backDiv = doorDiv.querySelector(`.back`);
 
       const style = window.getComputedStyle(backDiv);
